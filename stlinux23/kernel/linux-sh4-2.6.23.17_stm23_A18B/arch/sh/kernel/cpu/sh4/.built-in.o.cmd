@@ -1,1 +1,0 @@
-cmd_arch/sh/kernel/cpu/sh4/built-in.o :=  sh4-linux-ld  -EL  -r -o arch/sh/kernel/cpu/sh4/built-in.o arch/sh/kernel/cpu/sh4/probe.o arch/sh/kernel/cpu/sh4/common.o arch/sh/kernel/cpu/sh4/fpu.o arch/sh/kernel/cpu/sh4/softfloat.o arch/sh/kernel/cpu/sh4/setup-stx7105.o arch/sh/kernel/cpu/sh4/sata-init.o arch/sh/kernel/cpu/sh4/clock-stx7105.o arch/sh/kernel/cpu/sh4/clock-common.o

@@ -1,1 +1,0 @@
-cmd_drivers/net/built-in.o :=  sh4-linux-ld  -EL  -r -o drivers/net/built-in.o drivers/net/mii.o drivers/net/phy/built-in.o drivers/net/Space.o drivers/net/loopback.o drivers/net/wireless/built-in.o drivers/net/nwhwconfig.o

@@ -1,1 +1,0 @@
-cmd_arch/sh/kernel/cpu/built-in.o :=  sh4-linux-ld  -EL  -r -o arch/sh/kernel/cpu/built-in.o arch/sh/kernel/cpu/sh4/built-in.o arch/sh/kernel/cpu/irq/built-in.o arch/sh/kernel/cpu/init.o arch/sh/kernel/cpu/clock.o

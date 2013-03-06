@@ -1,1 +1,0 @@
-cmd_usr/initramfs_data.cpio.gz := /bin/sh /home/coolshou/develop/nextvod/org/linux-sh4-2.6.23.17_stm23_A18B/linux-sh4-2.6.23.17_stm23_A18B/scripts/gen_initramfs_list.sh -o usr/initramfs_data.cpio.gz   -d

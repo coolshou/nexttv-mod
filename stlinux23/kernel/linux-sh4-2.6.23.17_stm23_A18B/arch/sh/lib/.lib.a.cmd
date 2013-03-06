@@ -1,1 +1,0 @@
-cmd_arch/sh/lib/lib.a := rm -f arch/sh/lib/lib.a; sh4-linux-ar  rcs arch/sh/lib/lib.a arch/sh/lib/checksum.o arch/sh/lib/delay.o arch/sh/lib/div64-generic.o arch/sh/lib/div64.o arch/sh/lib/memchr.o arch/sh/lib/memcpy-sh4.o arch/sh/lib/memmove.o arch/sh/lib/memset.o arch/sh/lib/strlen.o
