@@ -1,0 +1,1 @@
+cmd_sound/soc/built-in.o :=  sh4-linux-ld  -EL  -r -o sound/soc/built-in.o sound/soc/snd-soc-core.o sound/soc/codecs/built-in.o sound/soc/at91/built-in.o sound/soc/pxa/built-in.o sound/soc/s3c24xx/built-in.o sound/soc/sh/built-in.o

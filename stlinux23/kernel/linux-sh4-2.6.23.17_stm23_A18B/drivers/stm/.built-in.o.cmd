@@ -1,0 +1,1 @@
+cmd_drivers/stm/built-in.o :=  sh4-linux-ld  -EL  -r -o drivers/stm/built-in.o drivers/stm/sysconf.o drivers/stm/fdma.o drivers/stm/fdma-xbar.o drivers/stm/pio.o drivers/stm/copro-st_socs.o drivers/stm/stm-coprocessor.o drivers/stm/stm_rng.o drivers/stm/emi.o

@@ -1,0 +1,1 @@
+#define UTS_RELEASE "2.6.23.17_stm23_A18B-pdk7105"

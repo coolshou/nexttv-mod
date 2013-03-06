@@ -1,0 +1,30 @@
+/home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/autoconf.mk: \
+ include/common.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/config.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/configs/pdk7105.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/config_cmd_default.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/linux/bitops.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/asm/bitops.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/asm/system.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/linux/config.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/asm/byteorder.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/asm/types.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/linux/byteorder/little_endian.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/linux/byteorder/swab.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/linux/byteorder/generic.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/linux/types.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/linux/posix_types.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/linux/stddef.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/asm/posix_types.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/linux/string.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/asm/string.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/asm/ptrace.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/asm/processor.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/asm/ubc.h \
+ /opt/STM/STLinux-2.4/devkit/sh4/lib/gcc/sh4-linux/4.7.2/include/stdarg.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/part.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/ide.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/flash.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/image.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/asm/u-boot.h \
+ /home/coolshou/develop/nextvod/export/u-boot/u-boot-sh4-1.3.1_stm23_0045/include/asm/global_data.h

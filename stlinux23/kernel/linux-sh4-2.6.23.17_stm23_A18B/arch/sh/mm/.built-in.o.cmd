@@ -1,0 +1,1 @@
+cmd_arch/sh/mm/built-in.o :=  sh4-linux-ld  -EL  -r -o arch/sh/mm/built-in.o arch/sh/mm/init.o arch/sh/mm/extable.o arch/sh/mm/consistent.o arch/sh/mm/cache-sh4.o arch/sh/mm/fault.o arch/sh/mm/clear_page.o arch/sh/mm/copy_page.o arch/sh/mm/tlb-flush.o arch/sh/mm/ioremap.o arch/sh/mm/tlb-sh4.o arch/sh/mm/pg-sh4.o arch/sh/mm/pmb.o

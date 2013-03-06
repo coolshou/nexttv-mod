@@ -1,0 +1,1 @@
+#define CURRENTSVNVERSION "Unversioned directory"

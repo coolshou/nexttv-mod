@@ -1,0 +1,1 @@
+cmd_arch/sh/kernel/cpu/irq/built-in.o :=  sh4-linux-ld  -EL  -r -o arch/sh/kernel/cpu/irq/built-in.o arch/sh/kernel/cpu/irq/imask.o arch/sh/kernel/cpu/irq/intc.o arch/sh/kernel/cpu/irq/st40_ilc_stx7200.o arch/sh/kernel/cpu/irq/ilc3_common.o
